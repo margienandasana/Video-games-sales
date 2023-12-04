@@ -1,1 +1,10 @@
-
+Data aggregation for extracting insights with following steps:
+1)  Created 2 tables.  
+The first table shows the average critic score for Sports games. 
+Store this information in a column called “sports_critic_scofre”. 
+The second table shows the average critic score for Shooter games. 
+Store this information in a column called “shooter_critic_score”.
+2) Created 3 statistics tables (average, min, max) for the global_sales for:  all games, Sports games, Shooter games.  
+For each table, label the columns as: “average_global_sales”, “min_global_sales”, and “max_global_sales”.
+3)  Created 2 tables containing the global_sales and the count of games with that global_sales for: Sports games and Shooter games. 
+For each table, label the columns as: “global_sales” and “count”.
