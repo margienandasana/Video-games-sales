@@ -1,5 +1,6 @@
 In this assignment, simple transformations on data is performed in following steps:
-1)	a) Create a new table for the analysis call “sales_genre”.  
+1)	
+a) Create a new table for the analysis call “sales_genre”.  
 b)	Load the table “sales” into this table.
 c) Select these columns: Genre, Global_Sales, Critic_Score.   
 2)  Round the data found in the “Global_Sales” column. 
